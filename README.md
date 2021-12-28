@@ -4,7 +4,7 @@
 
 </div>
 
-- This app allows users to share places where each place has an image, title and other small details with other users.
+- This app allows users to share places with each other. Every place has an image, title and other details such location.
 - The visitor is able to view the list of users and check shared places for a specific user.
 - **The goal of this app is to learn Node/Express and how to connect with React.**
 

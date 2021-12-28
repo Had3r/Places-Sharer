@@ -6,7 +6,7 @@
 
 - This app allows users to share places where each place has an image, title and other small details with other users.
 - The visitor is able to view the list of users and check shared places for a specific user.
-- **The goal** of this app is to learn Node/Express and how to connect with React.
+- **The goal of this app is to learn Node/Express and how to connect with React.**
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ npm start
 
 ### Structure
 
-- MVC pattern
+MVC pattern
 
 ### Installation
 

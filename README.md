@@ -6,7 +6,7 @@
 
 - This app allows users to share places with each other. Every place has an image, title and other details such location.
 - The visitor is able to view the list of users and check shared places for a specific user.
-- **This is a dummy app for learning Node and Express, so some things may not work properly.**. If you want to check out all my dummy projects, please email me for private repository access.
+- **This is a dummy app for learning Node and Express, so some things may not work properly**. If you want to check out all my dummy projects, please email me for private repository access.
 
 ## Table of Contents
 
